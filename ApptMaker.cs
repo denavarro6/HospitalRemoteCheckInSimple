@@ -10,9 +10,9 @@ using System.Windows.Forms;
 
 namespace HospitalRemoteCheckInSimple
 {
-    public partial class Form1 : Form
+    public partial class ApptMaker : Form
     {
-        public Form1()
+        public ApptMaker()
         {
             InitializeComponent();
         }
